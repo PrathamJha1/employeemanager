@@ -1,0 +1,14 @@
+.loginInput{
+    width:70%;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    justify-content: center;
+    text-align: justify;
+}
+.textBox{
+    width:60%;
+}
+h1{
+    text-align: center;
+}

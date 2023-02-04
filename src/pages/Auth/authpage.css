@@ -1,0 +1,9 @@
+.auth-page {
+    background-color: darkseagreen;
+    min-height: 100vh;
+    padding-block: 30px;
+}
+
+.chart {
+    padding: 40px;
+}
